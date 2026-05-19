@@ -14,9 +14,9 @@ This project demonstrates skills in **data visualization, dashboard design, busi
 
 ## 🔹 Main Dashboard
 
-![Main Dashboard](C:\Users\TAPATI PAUL\OneDrive\Desktop\Ecommerce-Sales-Dashboard-PowerBI\Screenshots/Dashboard.png)
-![Main Dashboard](C:\Users\TAPATI PAUL\OneDrive\Desktop\Ecommerce-Sales-Dashboard-PowerBI\Screenshots/Dashboard1.png)
-![Main Dashboard](C:\Users\TAPATI PAUL\OneDrive\Desktop\Ecommerce-Sales-Dashboard-PowerBI\Screenshots/Dashboard2.png)
+![Main Dashboard](Screenshots/Dashboard.png)
+![Main Dashboard](Screenshots/Dashboard1.png)
+![Main Dashboard](Screenshots/Dashboard2.png)
 ---
 
 # 🚀 Features
