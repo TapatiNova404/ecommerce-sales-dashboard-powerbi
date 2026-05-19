@@ -15,7 +15,13 @@ This project demonstrates skills in **data visualization, dashboard design, busi
 ## 🔹 Main Dashboard
 
 ![Main Dashboard](Screenshots/Dashboard.png)
+
+## 🔹 Catagory Analysis
+
 ![Main Dashboard](Screenshots/Dashboard1.png)
+
+## 🔹 Quarterly Analysis
+
 ![Main Dashboard](Screenshots/Dashboard2.png)
 ---
 
